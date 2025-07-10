@@ -15,6 +15,6 @@ A basic contact manager where users can add, view, and delete contacts using a s
 
 ## 👩‍💻 Project Author
 **Amna Noor**  
-🐍 Python Projects Portfolio  
-🎓 Enrolled in PIAIC – AI & Robotics  
+🐍 Python Projects
+🎓 PIAIC – AI & Robotics Student
 
